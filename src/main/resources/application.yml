@@ -1,8 +1,8 @@
 security:
   oauth2:
     client:
-      clientId: <Client ID from google developer console>
-      clientSecret: <Client Secret from google developer console>
+      clientId: 224290060067-s6te8ugjqbvrvb6lc78nlmam8f2n6u75.apps.googleusercontent.com
+      clientSecret: d3P-d4Sll_hfK4LH1_MqNnua
       accessTokenUri: https://www.googleapis.com/oauth2/v4/token
       userAuthorizationUri: https://accounts.google.com/o/oauth2/v2/auth
       clientAuthenticationScheme: form
